@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">sample-receive-file</string>
+    <string name="activity_main_tv_instruction">Please click button \'PICK PICTURE\' to pick a JPEG file from other application.</string>
+    <string name="activity_main_btn_pick_picture">Pick picture</string>
 </resources>
